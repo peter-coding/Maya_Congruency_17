@@ -1,6 +1,8 @@
 # Maya_Congruency_17
 Scripts for calculating the transformations between meshes.
 
+![Isometric Transformation](/Documentation/Pictures/Rotation-img.png)
+
 See PDF file ***V1.0 Oct'17*** for a detailed disclosure of how the code works.
 Matlab script ***CongruencyCheck.m***, which requires function scripts ***CircSphereTri.m*** and ***Plotter.m***, demonstrates a proof of concept.
 
